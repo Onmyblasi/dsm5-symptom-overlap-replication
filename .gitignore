@@ -1,0 +1,26 @@
+# Personal working notes — not part of the published project
+scratch/
+notes/
+
+# Source data — not redistributed (see README)
+data/raw/
+
+# Power BI
+*.pbix.bak
+temp/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
