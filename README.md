@@ -37,3 +37,16 @@ https://doi.org/10.1017/S0033291723002544
 The source article is open access under a CC BY licence. The DSM-5 itself is
 the property of the American Psychiatric Association and protected by
 copyright: no diagnostic criterion is reproduced verbatim in this project.
+
+## Licence
+
+This repository contains different kinds of material, licensed separately:
+
+- **Code** — processing scripts and data transformations: MIT Licence
+  (see [`LICENSE`](LICENSE)).
+- **Documentation and derived results** — written content, aggregated tables,
+  charts and dashboard screenshots:
+  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+The original dataset is not redistributed here. See *Source and licensing*
+above for its terms.
