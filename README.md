@@ -50,3 +50,9 @@ This repository contains different kinds of material, licensed separately:
 
 The original dataset is not redistributed here. See *Source and licensing*
 above for its terms.
+
+---
+
+Note: the MIT Licence above applies to the code in this repository.
+Documentation and derived results are licensed under CC BY 4.0.
+See README.md for details.
